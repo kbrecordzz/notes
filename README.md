@@ -1,6 +1,6 @@
 # notes
 
-Super simple note taking web "app" (= web site) for you who have your own web server with PHP on it.
+Super simple note taking web "app" (= web site) for you who have a web server with PHP on it.
 
 HOW TO USE IT:
 1. Have your own web server with PHP installed on it. If you have this I assume you know how to set up a website too. So, put index.php where you want it.
