@@ -7,6 +7,8 @@ HOW TO USE IT:
 2. Create the file "data.txt" in the same directory as index.php, and make it able to write to (in Linux: chmod 777 data.txt - very unsecure because it gives EVERYONE permission to do ANYTHING, but it works).
 3. Set your own password in index.php ($password = "password").
 
+BUGS: it may be difficult/impossible to put "+" and ";" in the notes, due to how the data storage works.
+
 LICENSE: kbrecordzz public domain license = use it however you want without needing to credit me (basically CC0 but much shorter legal text).
 
 /kbrecordzz
